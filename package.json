@@ -1,0 +1,24 @@
+{
+  "name": "websocket-redis-pub-sub-sample",
+  "version": "1.0.0",
+  "description": "sample for websocket and redis pub/sub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "pubsub",
+    "websocket"
+  ],
+  "author": "ykmikan",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "redis": "^2.8.0",
+    "socket.io": "^2.1.1",
+    "socket.io-emitter": "^3.1.1",
+    "socket.io-redis": "^5.2.0"
+  }
+}
