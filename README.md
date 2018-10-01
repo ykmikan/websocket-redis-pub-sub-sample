@@ -1,5 +1,5 @@
 # websocket-redis-pub-sub-sample
-sample for websocke and redis pub/sub.
+sample for websocket and redis pub/sub.
 This sample is emit some message to client by redis-publish.
 
 # Getting start
